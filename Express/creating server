@@ -1,0 +1,19 @@
+931@Khushi MINGW64 ~
+$ cd Desktop/
+
+//moving into a directory//
+
+91931@Khushi MINGW64 ~/Desktop
+$ cd my-express-server
+
+//creating a file
+
+
+91931@Khushi MINGW64 ~/Desktop/my-express-server
+$ touch server.js
+
+//initialiase npm//
+
+91931@Khushi MINGW64 ~/Desktop/my-express-server
+$ npm init
+
